@@ -10,6 +10,8 @@
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/pycharm-logo.svg" alt="pycharm" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/vs-logo.svg" alt="vs" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/mysql-database-logo.svg" alt="mysql" width="100">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/datagrip-logo.svg" alt="mysql" width="100">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/idea-logo.svg" alt="mysql" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/clion-logo.svg" alt="clion" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/vmware-logo.svg" alt="vmware" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/git-logo.svg" alt="git" width="100">
