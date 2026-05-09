@@ -1,5 +1,5 @@
 ## 感谢你在茫茫人海中注意到了我，也许你能在这发现一些有意思的事物
-**Thank you for noticing me in the vast sea of people. Perhaps you can discover some interesting things here**
+*Thank you for noticing me in the vast sea of people. Perhaps you can discover some interesting things here*
 <!--
 **xiaoliang056/xiaoliang056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
