@@ -3,15 +3,16 @@
 ### 🎁 Languages and Tools
 
 <div>
-    <img src="https://raw.githubusercontent.com/xiaoliang056/xiaoliang056/main/python-logo.svg" alt="python">
-    <img src="https://raw.githubusercontent.com/xiaoliang056/xiaoliang056/c%20language%20(1).svg" alt="c">
-    <img src="https://raw.githubusercontent.com/xiaoliang056/xiaoliang056/html.svg" alt="html">
-    <img src="https://raw.githubusercontent.com/xiaoliang056/xiaoliang056/main/Pycharm.svg" alt="pycharm">
-    <img src="https://raw.githubusercontent.com/xiaoliang056/xiaoliang056/main/Clion.svg" alt="clion">
-    <img src="https://raw.githubusercontent.com/xiaoliang056/xiaoliang056/main/vscode.svg" alt="vs">
-    <img src="https://raw.githubusercontent.com/xiaoliang056/xiaoliang056/main/VMware.svg" alt="vmware">
-    <img src="https://raw.githubusercontent.com/xiaoliang056/xiaoliang056/main/git.svg" alt="git">
-    <img src="https://raw.githubusercontent.com/xiaoliang056/xiaoliang056/main/mysql-database.svg" alt="mysql">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/python-logo.svg" alt="python">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/java-logo.svg" alt="java">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/c-logo.svg" alt="c">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/html-logo.svg" alt="html">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/pycharm-logo.svg" alt="pycharm">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/vscode-logo.svg" alt="vs">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/mysql-database-logo.svg" alt="mysql">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/clion-logo.svg" alt="clion">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/vmware-logo.svg" alt="vmware">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/git-logo.svg" alt="git">
 </div>
 
 
