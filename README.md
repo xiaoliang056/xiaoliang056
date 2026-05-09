@@ -8,7 +8,7 @@
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/c-logo.svg" alt="c" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/html-logo.svg" alt="html" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/pycharm-logo.svg" alt="pycharm" width="100">
-    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/vscode-logo.svg" alt="vs" width="100">
+    <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/vs-logo.svg" alt="vs" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/mysql-database-logo.svg" alt="mysql" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/clion-logo.svg" alt="clion" width="100">
     <img src="https://github.com/xiaoliang056/xiaoliang056/blob/main/vmware-logo.svg" alt="vmware" width="100">
